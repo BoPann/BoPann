@@ -1,4 +1,19 @@
-# Hi there, I am Bo! 👋
+### 👋 Welcome to my repo!
+
+Hey there! My name’s **Bo**, and I’m currently a **Computer Science graduate student at Seattle University**. My passion lies in **cybersecurity** — I’m working toward becoming a **penetration tester**, but right now I’m looking for an **entry-level IT position** (such as **Help Desk** or **IT Analyst**) where I can:
+
+1. Gain hands-on experience, and
+    
+2. Contribute to the cybersecurity community with what I’ve learned so far.
+    
+
+I enjoy helping people solve tech problems and learning new ways to secure systems.
+
+In my free time, I like tackling **CTF challenges** — I see them as fun puzzles that sharpen my skills. You’ll find some of my CTF journeys (and struggles!) documented here.
+
+Outside of tech, I love **shooting hoops**, **working out**, **hiking**, and **reading** about topics like health, mindfulness, and fiction. I’m also a huge fan of _The Office_ — I watch clips on YouTube all the time, and who knows, maybe I’ll join an Office trivia night someday! 😄
+
+> “I’m not superstitious, but I am a little stitious.” — _Michael Scott_
 
 <!--
 **BoPann/BoPann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bopann&show_icons=true&theme=radical)
+<!--
+[//]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bopann&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bopann&layout=compact)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,3 +46,4 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+-->
