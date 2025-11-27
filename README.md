@@ -2,7 +2,7 @@
 
 Hey there! My name’s **Bo**, and I’m currently a **Computer Science graduate student at Seattle University**. My passion lies in **cybersecurity**. I’m working toward becoming a **SOC Analyst**. 
 
-Right now, I’m looking for an **entry-level IT role** such as **SOC Analyst** or **Help Desk Techinician** where I can:
+Right now, I’m looking for an **entry-level IT role** such as **SOC Analyst** or **Help Desk Technician** where I can:
 
 1. Gain hands-on experience, and
     
