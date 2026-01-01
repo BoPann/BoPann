@@ -20,6 +20,7 @@ Hey there! My name is **Bo**. I believe cybersecurity is a **human service**: ma
     - Enhanced endpoint visibility by deploying File Integrity Monitoring (FIM) across critical directories, ensuring 100% detection of unauthorized system changes and configuration drift.
     - Reduced incident response time by engineering an automated integration between Wazuh SIEM and VirusTotal API, enabling near-instantaneous identification and quarantine of malicious files.
 
+
     **Problem I Solved**: It doesn’t take a psychology degree to know that humans love clicking links—sometimes on purpose, sometimes by accident. When that happens, Pi-hole steps in and goes, “Hmm… I don’t know about that.” It filters malicious DNS queries and helps keep my home environment safer.
 
 
