@@ -19,4 +19,4 @@ Outside of tech, I love **shooting hoops**, **working out**, **hiking**, and **r
 
 Here is me and the one and only Prof. David J. Malan from Harvard CS50, who has been the inpiration in my learning journey.
 
-<p align="center"> <img src="imgs/me.png" style="width: 80%; aspect-ratio: 21 / 9; object-fit: cover; border-radius: 15px;"> </p>
+<p align="center"> <img src="imgs/me.png" style="width: 80%; aspect-ratio: 21 / 14; object-fit: cover; border-radius: 15px;"> </p>
